@@ -1,0 +1,6 @@
+Item ID   Item Name        Price
+--------------------------------
+011       NasiLemak         5.00
+012       CharKuayTeow      6.50
+013       LambChop          9.50
+014       Fries             3.00

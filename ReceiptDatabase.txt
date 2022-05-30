@@ -1,0 +1,343 @@
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Student
+Date and Time  : Sat May 05 01:28:55 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+                    Fries
+               Nasi Lemak
+              Soft Drinks
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Not Student
+Date and Time  : Sat May 05 18:07:22 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+                         
+                         
+                         
+
+-----------------------------------------------------------------------------
+					    Total :   15.00
+					 Discount :   0.00
+				 Total Before GST :   15.00
+					      GST :   0.90
+				     Total to Pay :   15.90
+				      Paid Amount :   15.00
+					   Change :   -0.90
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00002
+Customer Type  : Not Student
+Date and Time  : Sat May 05 18:09:43 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+           Char Kuay Teow
+              Soft Drinks
+
+-----------------------------------------------------------------------------
+					    Total :   15.00
+					 Discount :   0.00
+				 Total Before GST :   15.00
+					      GST :   0.90
+				     Total to Pay :   15.90
+				      Paid Amount :   17.00
+					   Change :   1.10
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00003
+Customer Type  : Student
+Date and Time  : Sat May 05 18:12:35 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  011		Nasi Lemak		2		10.00
+
+-----------------------------------------------------------------------------
+					    Total :   10.00
+					 Discount :   1.00
+				 Total Before GST :   9.00
+					      GST :   0.54
+				     Total to Pay :   9.54
+				      Paid Amount :   10.00
+					   Change :   0.46
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Not Student
+Date and Time  : Thu May 10 00:06:05 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  002		  Combo 2		1		10.00
+               Nasi Lemak
+                         
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Student
+Date and Time  : Thu May 10 00:17:43 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+                    Fries
+              Soft Drinks
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Not Student
+Date and Time  : Thu May 10 00:18:58 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  013		Lamb Chop		1		9.50
+  101	      Soft Drinks		1		2.00
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Student
+Date and Time  : Thu May 10 00:19:45 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  011		Nasi Lemak		2		10.00
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Not Student
+Date and Time  : Thu May 10 00:33:50 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+           Char Kuay Teow
+              Soft Drinks
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00001
+Customer Type  : Not Student
+Date and Time  : Sun May 13 01:15:58 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+           Char Kuay Teow
+              Soft Drinks
+
+-----------------------------------------------------------------------------
+					    Total :   15.00
+					 Discount :   0.00
+				 Total Before GST :   15.00
+					      GST :   0.90
+				     Total to Pay :   15.90
+				      Paid Amount :   0.00
+					   Change :   -15.90
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00002
+Customer Type  : Student
+Date and Time  : Sun May 13 01:58:56 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+                         
+              Soft Drinks
+  011		Nasi Lemak		1		5.00
+
+-----------------------------------------------------------------------------
+					    Total :   20.00
+					 Discount :   2.00
+				 Total Before GST :   18.00
+					      GST :   1.08
+				     Total to Pay :   19.08
+				      Paid Amount :   20.00
+					   Change :   0.92
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00003
+Customer Type  : Not Student
+Date and Time  : Sun May 13 02:54:53 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  002		  Combo 2		1		10.00
+               Nasi Lemak
+              Soft Drinks
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00003
+Customer Type  : Student
+Date and Time  : Sun May 13 02:59:35 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  002		  Combo 2		1		10.00
+               Nasi Lemak
+              Soft Drinks
+
+-----------------------------------------------------------------------------
+					    Total :   10.00
+					 Discount :   1.00
+				 Total Before GST :   9.00
+					      GST :   0.54
+				     Total to Pay :   9.54
+				      Paid Amount :   10.00
+					   Change :   0.46
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00004
+Customer Type  : Student
+Date and Time  : Sun May 13 03:00:29 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  003		  Combo 3		1		7.00
+               Nasi Lemak
+              Soft Drinks
+
+-----------------------------------------------------------------------------
+					    Total :   7.00
+					 Discount :   0.70
+				 Total Before GST :   6.30
+					      GST :   0.38
+				     Total to Pay :   6.68
+				      Paid Amount :   10.00
+					   Change :   3.32
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00005
+Customer Type  : Not Student
+Date and Time  : Tue May 15 02:24:02 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+011		Nasi Lemak		1		5.00
+
+-----------------------------------------------------------------------------
+					    Total :   5.00
+					 Discount :   0.00
+				 Total Before GST :   5.00
+					      GST :   0.30
+				     Total to Pay :   5.30
+				      Paid Amount :   20.00
+					   Change :   14.70
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00006
+Customer Type  : Not Student
+Date and Time  : Sun May 20 17:39:04 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  011		Nasi Lemak		1		5.00
+
+-----------------------------------------------------------------------------
+					    Total :   5.00
+					 Discount :   0.00
+				 Total Before GST :   5.00
+					      GST :   0.30
+				     Total to Pay :   5.30
+				      Paid Amount :   20.00
+					   Change :   14.70
+
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00007
+Customer Type  : Not Student
+Date and Time  : Sun May 20 20:58:12 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  011		Nasi Lemak		1		5.00
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00007
+Customer Type  : Not Student
+Date and Time  : Sun May 20 21:39:58 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  011		Nasi Lemak		0		0.00
+		          Unimas Kiosk
+		        Purchase Receipt
+
+
+Receipt ID     : 00007
+Customer Type  : Student
+Date and Time  : Mon Sep 10 05:02:26 2018
+-----------------------------------------------------------------------------
+Item Code	Item Type	    Quantity	     Price(RM) 
+-----------------------------------------------------------------------------
+  001		  Combo 1		1		15.00
+               Nasi Lemak
+                Lamb Chop
+              Soft Drinks
+
+-----------------------------------------------------------------------------
+					    Total :   15.00
+					 Discount :   1.50
+				 Total Before GST :   13.50
+					      GST :   0.81
+				     Total to Pay :   14.31
+				      Paid Amount :   20.00
+					   Change :   5.69
+

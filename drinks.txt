@@ -1,0 +1,4 @@
+Item ID         Item Name          Price
+----------------------------------------
+101            Soft Drinks          2.00
+102            Milk Shake           5.00
